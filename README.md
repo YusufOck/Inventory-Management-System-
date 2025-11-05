@@ -93,3 +93,4 @@ You can compile and run the project manually from your terminal.
 
 **Yusuf Ocak**
 * GitHub: [@YusufOck](https://github.com/YusufOck)
+* GitHub: [@sadikcanguler04](https://github.com/sadikcanguler04)
